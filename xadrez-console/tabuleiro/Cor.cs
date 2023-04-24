@@ -3,8 +3,8 @@
     enum Cor
     {
         Branco,
-        preto,
-        verde,
+        Preto,
+        Verde,
         Amarelo
     }
 }
