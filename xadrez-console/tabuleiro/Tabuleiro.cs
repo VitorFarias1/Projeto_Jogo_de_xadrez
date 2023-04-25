@@ -34,7 +34,7 @@ namespace tabuleiro
         {
             if (existePeca(pos))
             {
-                throw new TabuleiroExcepition("Já existe uma peça nessa posição");
+                throw new TabuleiroExcepition("Já existe uma peça nessa posição!");
             }
             pecas[pos.linha, pos.coluna] = p; 
             p.posicao = pos;
