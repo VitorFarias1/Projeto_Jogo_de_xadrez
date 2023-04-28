@@ -1,4 +1,5 @@
 ﻿using tabuleiro;
+using xadrez_console.tabuleiro;
 
 namespace xadrez
 {
